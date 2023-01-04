@@ -1,38 +1,39 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html>
+!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-    <style> 
-      .center-div
-        {
-          position: absolute;
-          margin: auto;
-          top: 0;
-          right: 0;
-          bottom: 0;
-          left: 0;
-          width: 500px;
-          height: 500px;
-        }
-    </style>
-  <title>Securify.IT</title>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+   <meta name="description" content="A holistic approach making cybersecurity into business resilience.We help solve your toughest cybersecurity challenges with combinations of products and services.">
+   <title>Security.IT</title>
+
+   <!-- Themes (light + dark) -->
+   <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+   <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
+   <!-- Custom Styles -->
+   <style>
+     :root {
+       /* --theme-hue: 325; */
+     }
+   </style>
 </head>
 <body>
-  <div class="center-div">
-    <a href="/"><img src="img/securfiy.it-logo.png" alt="Securify.IT"></a>
-    <p>Securify.IT is a cybersecurity organization headquartered in Europe. We operate globally, and we offer unique cyber intelligence and security services.</p>
-    <p>For questions, you can reach us by <a href="mailto:question-aaaaihc2c63upwjvwrihgty6hy@securify-it.slack.com">email</a>.</p>
-    <p>Please use our PGP key when you contact us per email.</p>
-    <p>You can also book an online meeting here:</p>
-    <div class="calendly-inline-widget" data-url="https://calendly.com/securify-it?primary_color=191e3c" style="min-width:320px;height:630px;">
-    </div>
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-  </div>
+   <div id="app"></div>
 
+   <script>
+     // Docsify Configuration
+     window.$docsify = {
+       // ..
+     };
+   </script>
 
+   <!-- Required -->
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+   <!-- Recommended -->
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
