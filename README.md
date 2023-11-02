@@ -4,7 +4,7 @@
 # Securify.IT
 Protecting your business becomes challenging when you lack awareness of potential threats. Securify.IT simplifies the complex task of recognizing and handling cybersecurity risks across the technology spectrum through a unified solution. We support organisations and security teams in operating more efficiently and intelligently by focusing on prioritizing the most significant threats.
 
-## Cyber Threat Intelligence 
+### Cyber Threat Intelligence 
 Identify and prevent potential external risks to your business using our modular cyber threat intelligence solution, the Threat Detection Service. This comprehensive service spans the widest spectrum of threats available and provides practical insights to optimize incident response efficiency. Equip your security teams with a centralized platform for automated, operational, tactical, and strategic threat intelligence, enhancing their capabilities significantly.
 
 ### About our Threat Detection Service
