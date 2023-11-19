@@ -3,13 +3,14 @@
 
 * [Home](/)
 * Services
-  * [Strategic Readiness]()
-  * [Technical Assurance]()
-  * [Cyber Security Transformation]()
-  * [Cyber Security Expertise On Demand]()
+  * [Staffing](staffing.md)
+  * [Threat Detection Service](?id=about-our-threat-detection-service)
+  * [Vulnerability Management](vulnerability-management.md)
 
 * Company
-  * [About us]()
-  * [Careers]()
-  * [Contact]()
-  * [Partners]()
+  * [About us](company?id=about)
+  * [Careers]carreers.md)
+  * [Contact](contact.md)
+  * [Partners](partners.md)
+
+

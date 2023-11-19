@@ -7,11 +7,10 @@
    <meta name="description" content="A holistic approach making cybersecurity into business resilience.We help solve your toughest cybersecurity challenges with combinations of products and services.">
    <title>Security.IT</title>
 
-   <!-- Themes (light + dark) -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
+   <link rel="stylesheet" href="style.css" />
    
+ 
    <!-- Custom Styles -->
    <style>
      :root {
@@ -20,28 +19,20 @@
    </style>
 </head>
 <body>
-   <div id="app"></div>
 
-   <script>
-     // Docsify Configuration
-     window.$docsify = {
+<div id="app"></div>
 
-      // load from _navbar.md
-        loadNavbar: true,
+<script>
+  window.$docsify = {
+    loadSidebar: 'false', // Disable sidebar
+    loadNavbar: 'true',
+    loadNavbar: '_navbar.md'       
+  };
+</script>
 
-       // load from _navbar.md
-        loadNavbar: '_navbar.md',       
-      };
-     </script>
+<script src="//cdn.jsdelivr.net/npm/docsify@latest"></script>
 
-   
 
-   <!-- Required -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
-   <!-- Recommended -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
