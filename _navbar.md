@@ -1,7 +1,7 @@
 
 <!-- _navbar.md -->
 
-* [Home](/)
+* <a id="home" href="/">Home</a>
 * Services
   * [Staffing](staffing.md)
   * [Threat Detection Service](?id=about-our-threat-detection-service)
@@ -9,7 +9,7 @@
 
 * Company
   * [About us](company?id=about)
-  * [Careers]carreers.md)
+  * [Careers](carreers.md)
   * [Contact](contact.md)
   * [Partners](partners.md)
 

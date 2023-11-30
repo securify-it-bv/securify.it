@@ -870,3 +870,67 @@ code .token {
   position: relative;
   left: auto;
 }
+
+
+.logo {
+  
+  width: 200px;
+  margin-left: 400px;
+  margin-top: 20px;
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 30px 15px 40px 15px;
+  position: relative;
+  
+}
+
+
+#home {
+  margin-right: -40px;
+}
+
+@media screen and (min-width: 701px) {
+  .markdown-section {
+    max-width: 700px; 
+    margin: 0 auto; 
+  }
+}
+
+
+
+@media screen and (min-width: 495px) {
+  .markdown-section {
+    max-width: 700px; 
+    margin: 0 auto; 
+  }
+
+  .logo {
+    margin-left: 20px;
+    margin: 0 auto;
+    max-width: 80%;
+    padding: 30px 15px 40px 15px;
+    position: relative;
+  }
+  #home {
+    display: none;
+
+  }
+  }
+
+
+}
+
+
+ @media screen and (max-width: 870px) {
+
+  .logo {
+    
+
+   margin-left: 1px;
+   
+  }
+
+}
+  
+ 
+

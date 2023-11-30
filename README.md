@@ -1,7 +1,4 @@
-<a href="/"><img src="/img/securfiy.it-logo.png" alt="Securify.IT" border="0"  /></a>
 
-
-# Securify.IT
 Protecting your business becomes challenging when you lack awareness of potential threats. Securify.IT simplifies the complex task of recognizing and handling cybersecurity risks across the technology spectrum through a unified solution. We support organisations and security teams in operating more efficiently and intelligently by focusing on prioritizing the most significant threats.
 
 ### Cyber Threat Intelligence 
