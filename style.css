@@ -917,8 +917,6 @@ code .token {
   }
 
 
-
-
  @media screen and (max-width: 870px) {
 
   .logo {
@@ -927,6 +925,12 @@ code .token {
   }
 
 }
-  
- 
+   
+.grey-out {
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
 
+.grey-out:hover {
+  filter: grayscale(0%);
+}

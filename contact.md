@@ -1,4 +1,6 @@
-<a href="/"><img src="/img/securfiy.it-logo.png" alt="Securify.IT" border="0"  /></a>
+<img src="/img/melinda-gimpel-5Ne6mMQtIdo-unsplash.jpg" alt="Photo by Melinda Gimpel on Unsplash" class="grey-out" /> <br />
 
 
 # Contact
+
+  

@@ -1,4 +1,4 @@
-<a href="/"><img src="/img/securfiy.it-logo.png" alt="Securify.IT" border="0"  /></a>
+<img src="/img/14086855402_3c2a80547d_c.jpg" alt="Photo by www.flazingo.com/creativecommons" class="grey-out" /> <br />
 
 
 # Carreers

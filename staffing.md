@@ -1,5 +1,4 @@
-<a href="/"><img src="/img/securfiy.it-logo.png" alt="Securify.IT" border="0"  /></a>
-
+<img src="/img/annie-spratt-QckxruozjRg-unsplash.jpg" alt="Photo by Annie Spratt on Unsplash" class="grey-out" /> <br />
 
 # Staffing 
 As a leading staffing solution specializing in the security sector, we, at Securify.IT, excel in meeting the staffing needs of security companies, departments, and startups for several compelling reasons:

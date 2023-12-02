@@ -1,4 +1,4 @@
-<a href="/"><img src="/img/securfiy.it-logo.png" alt="Securify.IT" border="0"  /></a>
+<img src="/img/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Photo by Ian Schneider on Unsplash" class="grey-out" /> <br />
 
 
 # About

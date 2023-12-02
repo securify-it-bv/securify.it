@@ -1,4 +1,7 @@
-<a href="/"><img src="/img/securfiy.it-logo.png" alt="Securify.IT" border="0"  /></a>
+<img src="/img/partners.jpg" alt="Photo by Creator: rawpixel.com | Credit: rawpixel.com
+" class="grey-out" /> <br />
+
+
 
 
 # Partners
