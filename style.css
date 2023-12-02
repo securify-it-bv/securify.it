@@ -886,7 +886,7 @@ code .token {
 
 
 #home {
-  margin-right: -40px;
+  
 }
 
 @media screen and (min-width: 701px) {
@@ -912,8 +912,7 @@ code .token {
     position: relative;
   }
   #home {
-    display: none;
-
+  
   }
   }
 
@@ -923,9 +922,7 @@ code .token {
  @media screen and (max-width: 870px) {
 
   .logo {
-    
-
-   margin-left: 1px;
+     margin-left: 1px;
    
   }
 
