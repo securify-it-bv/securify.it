@@ -1,1 +1,127 @@
-"securify.it" 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Securify.IT</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/img/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+  <link rel="manifest" href="/img/site.webmanifest">
+
+</head>
+
+<body class="bg-black text-white" style="background-color: #010080;">
+  <!-- Hero Section -->
+  <section class="bg-black text-white py-20 px-6">
+    <div class="container mx-auto text-center">
+      <div class="flex flex-col items-center justify-center mb-6 md:flex-row md:space-x-4">
+          <img src="/img/logo.png" alt="Securify.IT" class="h-16 w-auto mb-4 md:mb-0">
+          <h1 class="text-4xl md:text-6xl font-bold" style="color: #ffffff;">Securify.IT</h1>
+      </div>
+      <p class="text-lg md:text-2xl mb-8 max-w-3xl mx-auto">Your Cybersecurity, Simplified.</p>
+    </div>
+  </section>
+
+  <!-- Navigation -->
+
+  <header class="bg-black py-4">
+    <nav class="container mx-auto text-center flex justify-between items-center px-4">
+      <ul class="flex space-x-6" >
+        <li><a href="#people" class="hover:text-yellow-400" style="color: #ffd736;">People</a></li>
+        <li><a href="#projects" class="hover:text-yellow-400" style="color: #ffd736;">projects</a></li>
+        <li><a href="#protecion" class="hover:text-yellow-400" style="color: #ffd736;">Protection</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="people" class="py-16" style="background-color: #272121f1;">
+    <div class="container mx-auto px-4 grid md:grid-cols-2 gap-8">
+      <div class="bg-yellow-400 text-black p-6 rounded-xl shadow-md">
+        <h2 class="text-2xl font-bold mb-4">People</h2>
+        <p>Securify.IT is a dedicated team of cybersecurity professionals committed to providing top-notch security solutions. Our experts are passionate about protecting your digital assets and ensuring your peace of mind.
+        </p> <br/>
+        <a href="/people/" class="inline-block bg-gray-900 text-yellow-400 font-semibold py-2 px-4 rounded">people</a>
+      </div>
+      <div class="bg-gray-900 p-6 rounded-xl shadow-md" >
+        <h3 class="text-xl font-semibold mb-4">Protection</h3>
+        
+        <p>
+          Securify.IT offers a comprehensive suite of cybersecurity services, including vulnerability assessments, penetration testing, and incident response. Our team of experts is dedicated to safeguarding your digital assets and ensuring compliance with industry standards.
+        </p>
+        <div class="mt-6">
+          <a href="/protection/" class="inline-block bg-yellow-400 text-black font-semibold py-2 px-4 rounded shadow hover:bg-yellow-300">Protection</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!-- News section-->
+
+
+<section class="bg-black text-white py-20 px-6">
+    <div class="container mx-auto text-left">
+       <div id="substack-feed-embed"></div>
+        <script>
+            window.SubstackFeedWidget = {
+                substackUrl: "securifyit.substack.com",
+                posts: 3,
+                layout: "right",
+                hidden: ["author", "reactions", "comments"],
+                colors: {
+                primary: "#FFD736",
+                secondary: "#FFFFFF0",
+                background: "#000000",
+                }
+            };
+            </script>
+            <script src="https://substackapi.com/embeds/feed.js" async></script>
+            
+
+        </div>
+</section>
+
+
+
+ 
+  <section id="projects" class="py-16" style="background-color: #272121f1;">
+    <div class="container mx-auto px-4 grid md:grid-cols-2 gap-8">
+      <div class="bg-gray-900 p-6 rounded-xl shadow-md">
+        <h2 class="text-2xl font-bold mb-4">Projects</h2>
+        <p>
+          Securify.IT is involved in various projects aimed at enhancing cybersecurity awareness and education. We collaborate with organizations and communities to promote best practices in digital security.
+        </p>
+      </div>
+      <div>
+
+       <!-- <div class="bg-yellow-400 text-black p-6 rounded-xl shadow-md">
+         <h2 class="text-2xl font-bold mb-4">Topic</h2>
+         <p>...</p> <br/>
+         <a href="#" class="inline-block bg-gray-900 text-yellow-400 font-semibold py-2 px-4 rounded">.</a>
+       </div> -->
+  
+
+    </div>
+   </section>
+
+     <!-- Footer -->
+  <footer class="bg-black text-white py-10">
+    <div class="container mx-auto px-4 grid md:grid-cols-3 gap-8">
+      <img src="/img/logo.png" alt="Securify.IT Logo" class="w-32 h-auto mb-4" />
+      <div>
+        <h3 class="text-lg font-semibold mb-2">Connect</h3>
+        <ul class="space-y-2">
+          <li><a href="https://www.linkedin.com/company/securify-it/" target="_blank" class="text-yellow-400 hover:bg-yellow-300">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
